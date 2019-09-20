@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Safari.Hosts.Web.Global" Language="C#" %>
